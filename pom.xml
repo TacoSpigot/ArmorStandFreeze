@@ -1,0 +1,23 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>net.techcable</groupId>
+    <artifactId>armor-stand-freeze</artifactId>
+    <version>0.1.0</version>
+    <name>ArmorStandFreeze</name>
+    <dependencies>
+    	<dependency>
+    		<groupId>com.destroystokyo.paper</groupId>
+    		<artifactId>paper-api</artifactId>
+    		<version>1.12.2-R0.1-SNAPSHOT</version>
+    	</dependency>
+    </dependencies>
+    <repositories>
+    	<repository>
+    		<id>paper</id>
+    		<url>https://destroystokyo.com/repo/repository/maven-public/</url>
+    	</repository>
+    </repositories>
+    <build>
+    	<finalName>ArmorStandFreeze</finalName>
+    </build>
+</project>

@@ -1,0 +1,5 @@
+name: ArmorStandFreeze
+version: 0.1.0
+description: Prevent armor stand movement to improve performance
+author: Techcable
+main: net.techcable.armor_stand_freeze.ArmorStandFreeze
